@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702273573 source:e:\1st year schoolworks\1st sem\cfp\gameproj\pokeguess_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<windows.h>
+	<time.h>
+
